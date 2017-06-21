@@ -62,6 +62,7 @@ Name | Categories | City | links
 [Clixxa](https://www.clixxa.com/) | Digital Marketing | Vancouver | [linkedin](https://www.linkedin.com/company-beta/15220406/) [angellist](https://angel.co/clixxa)
 [Contiq Inc.](http://contiq.com/) | Machine Learning, Sales Automation | Vancouver | [linkedin](https://www.linkedin.com/company-beta/17874198/) [angellist](https://angel.co/contiq-2)
 [CalendHer Technologies](https://www.calendher.co/) | Beauty, Technology, Health and Wellness | Vancouver | [linkedin](https://www.linkedin.com/company-beta/10947005/) [angellist](https://angel.co/calendher-technologies-1)
+[Istuary Innovation Group](https://www.istuary.com/) | Storage, Virtual Reality | Vancouver | [linkedin](https://www.linkedin.com/company-beta/3797506/) [angellist](https://angel.co/istuary-innovation-group)
 [EMAGIN](http://emagin.ca/) | Clean Technologies, Artifical Intelligence | Waterloo | 
 [Sortable](https://sortable.com/) | Publishing, Advertising | Waterloo | [linkedin](https://www.linkedin.com/company-beta/618950/) [angellist](https://angel.co/sortable) [crunchbase](https://www.crunchbase.com/organization/sortable-com#/entity)
 [Wriber](https://www.wriber.com/) | Content Marketing, Marketing Automation | Waterloo | [linkedin](https://www.linkedin.com/company-beta/10066199/) [angellist](https://angel.co/wriber) [crunchbase](https://www.crunchbase.com/organization/wriber#/entity)
@@ -174,6 +175,7 @@ Name | Categories | City | links
 [DataMillions](http://datamillions.com/) | Real Estate, Manufacturing, Machine Learning | Toronto | [linkedin](https://www.linkedin.com/company-beta/15264148/) [angellist](https://angel.co/datamillions-1/)
 [OOSYNAPSE](https://oosynapse.com/) | Digital Media, Machine Learning, Social Media Platforms | Toronto | [angellist](https://angel.co/oosynapse-1/)
 [SnapTravel](https://booking.getsnaptravel.com/landing) | Online Travel, Machine Learning | Toronto | [linkedin](https://www.linkedin.com/company-beta/10865494/) [angellist](https://angel.co/snaptravel/)
+[Digital Finance Institute](http://www.digitalfinanceinstitute.org/) | Financial Technology, Artificial Intelligence | Toronto | [linkedin](https://www.linkedin.com/company-beta/10335790/)
 [Local Logic](https://www.locallogic.co/en) | Real Estate, Smart Cities, Online Travel | Montreal | [linkedin](https://www.linkedin.com/company-beta/10352749/) [angellist](https://angel.co/locallogic) [crunchbase](https://www.crunchbase.com/organization/local-logic#/entity)
 [SPORTLOGiQ](http://sportlogiq.com/) | Sports, Computer Vision | Montreal | [linkedin](https://www.linkedin.com/company-beta/5296534/) [angellist](https://angel.co/sportlogiq) [crunchbase](https://www.crunchbase.com/organization/sportlogiq#/entity)
 [Hopper](https://www.hopper.com/) | Online Travel, Predictive Analytics | Montreal | [linkedin](https://www.linkedin.com/company-beta/1373602/) [angellist](https://angel.co/hopper) [crunchbase](https://www.crunchbase.com/organization/hopper#/entity)
